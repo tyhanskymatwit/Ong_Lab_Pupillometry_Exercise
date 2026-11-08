@@ -15,7 +15,7 @@ ggplot2(3.4.4): Clinician figure
 sandwich(3.1.0), lmtest(0.9.40): Patient-clustered standard errors in the missingness model 
 
 
-##CSVs Exported
+## CSVs Exported
 
 cleaning_log.csv: Every cleaning decision, the number of rows affected and the reason
 missingness_model.csv: Odds ratios for a failed exam (is the missingness random?)
