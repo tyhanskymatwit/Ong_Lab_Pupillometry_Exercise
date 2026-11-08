@@ -2,7 +2,7 @@
 
 This is the self assessment exercise provided by the Ong Lab, designed as a test of abilities in analyzing a simulated cohort of 600 Neuro ICU patients. 
 
-##In Neuro ICU patients, do pupillometry measurements help predict neurologic deterioration beyond what we know at admission? 
+## In Neuro ICU patients, do pupillometry measurements help predict neurologic deterioration beyond what we know at admission? 
 
 - Survival analysis: each 1-point fall in worst-eye NPi carried about an 8-fold higher hazard of deterioration (HR 8.2, 95% CI 5.3–12.8), adjusted for all admission variables.
 - 24-hour prediction: a random forest using pupillometry reached a test AUROC of 0.81, against 0.70 for admission data alone, with good calibration.
